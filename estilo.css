@@ -247,7 +247,7 @@ html {
 
 
 .contenedor-skills {
-    background: linear-gradient(rgba(98, 237, 240, .6), rgba(16, 33, 31, .8)), url(img/fondo-skills.jpg);
+    background: linear-gradient(rgba(73, 178, 161, .6), rgba(16, 33, 31, .8)), url(img/fondo-skills.jpg);
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
